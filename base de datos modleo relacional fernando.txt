@@ -1,0 +1,9 @@
+muestra todas las peliculas y su categoria
+muestra las peliculas con una categoria especifica
+muestra todas las cuentas y a que cliente pertenece
+muestra las cuentas que tiene un cliente especifico
+muestra las peliculas que tiene una cuenta vinculada
+muestra todas las peliculas que tiene un cliente en todas sus cuentas
+muestra las calificaciones de una pelicula en especifico
+muestra todas las calificaciones que ha hecho una cuenta
+muestra todas las calificaciones que ha hecho un cliente en todas sus cuentas
